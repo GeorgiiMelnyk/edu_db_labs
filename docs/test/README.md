@@ -1,56 +1,31 @@
 # Тестування працездатності системи
 
 ## Запуск сервера
-![](./media/serverstart.png)
+
+![img.png](img.png)
 
 ## Тестування для опитувань
 
-### GET /quiz
+# GET/quiz
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 
-![](./media/quizget200.png)
-![](./media/quizget400.png)
+# GET /quiz/:id
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
 
-### GET /quiz/:id
+# POST/quiz
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
 
-![](./media/quizgetid200.png)
-![](./media/quizgetid400.png)
+# DELETE/quiz/:id
+![img_8.png](img_8.png)
+![img_9.png](img_9.png)
+![img_10.png](img_10.png)
 
-### POST /quiz
-
-![](./media/quizpost200.png)
-![](./media/quizpost400.png)
-
-### PUT /quiz/:id
-
-![](./media/quizput200.png)
-
-### DELETE /quiz/:id
-
-![](./media/quizdelete200.png)
-
-## Тестування для питань
-
-### GET /question
-
-![](./media/questionget200.png)
-![](./media/questionget400.png)
-
-### GET /question/:id
-
-![](./media/questiongetid200.png)
-![](./media/questiongetid400.png)
-
-### POST /question
-
-![](./media/questionpost200.png)
-![](./media/questionpost400.png)
-
-### PUT /question/:id
-
-![](./media/questionput200.png)
-
-### DELETE /question/:id
-
-![](./media/questiondelete200.png)
+# PUT/quiz/:id
+![img_11.png](img_11.png)
+![img_12.png](img_12.png)
 
 

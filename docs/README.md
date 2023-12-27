@@ -9,7 +9,8 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 **Виконав** 
 
-*студент 2-го курсу, групи ІМ-23*<span padding-right:5em></span> **Даніїл Кобзєв denthenttg@gmail.com tg:@Sevenpointnine** <br/>
+*студент 2-го курсу, групи ІМ-23*<span padding-right:5em></span> 
+**Мельник Георгій georg999mel@gmail.com tg:@geor9ii** <br/>
 
 **Керівник**
 
